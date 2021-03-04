@@ -48,8 +48,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71"><vh>@path markdown</vh>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
-<v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
+<v t="yen.20170108171733.82"><vh>@clean 20210225.md</vh>
+<v t="leo.20210225202917.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
@@ -88,6 +88,20 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20210225202917.1">Python
+---
+Python可以用來開發單機版的視窗城市套件 Pyslvs-UI
+
+Python可以用來開發網際版內容管理系統CMSIMDE
+
+Python可以用來控制CoppeliaSim愈Webots虛擬環境中的機電系統
+
+Python可以用於機器學習Keras,Pytorch
+
+
+Flutter
+---
+Flutter可以用來開發跨Apple與Android手機與平板上的Apps</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -175,7 +189,28 @@ g.es("admin pelican 近端執行完畢")
 </t>
 <t tx="yen.20170108171733.5"></t>
 <t tx="yen.20170108171733.71"></t>
-<t tx="yen.20170108171733.81"></t>
+<t tx="yen.20170108171733.82">@language md
+---
+Title: 2021 Spring CD課程
+Date:2021-2-25
+Category:Misc
+Tage:2021SpringCD
+Slug:2021-Spring-Intro-to-computer-programing
+Another:yen
+---
+2021 Spring協同產品設計與實習教學主要介紹Python與Flutter在機械設計流程中的應用
+
+&lt;!-- PELICAN_END_SUMMER --&gt;
+
+@others@
+
+
+
+
+
+
+
+</t>
 <t tx="yen.20170108171733.83">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt
 
 </t>
